@@ -1,0 +1,17 @@
+..\obj\bc95.o: ..\HARDWARE\BC95\BC95.c
+..\obj\bc95.o: ..\HARDWARE\BC95\BC95.h
+..\obj\bc95.o: ..\SYSTEM\usart\usart.h
+..\obj\bc95.o: C:\ProgramSoftware\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\bc95.o: ..\SYSTEM\sys\sys.h
+..\obj\bc95.o: ..\USER\stm32f10x.h
+..\obj\bc95.o: ..\CORE\core_cm3.h
+..\obj\bc95.o: C:\ProgramSoftware\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\bc95.o: ..\USER\system_stm32f10x.h
+..\obj\bc95.o: ..\USER\stm32f10x_conf.h
+..\obj\bc95.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\bc95.o: ..\USER\stm32f10x.h
+..\obj\bc95.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\bc95.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\bc95.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\bc95.o: C:\ProgramSoftware\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\bc95.o: ..\SYSTEM\delay\delay.h
